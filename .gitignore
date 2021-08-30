@@ -1,0 +1,6 @@
+# Ignoro directorio bin
+bin/
+# Ignoro archivo .classpath
+.classpath
+# Ignoro archivo .proyect
+.project
